@@ -7,7 +7,7 @@ Analysis is based on wholesale transactions from the Iowa Alcoholic Beverages Di
 Dataset: Iowa Liquor Sales (https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales)
 
 # Business Question
-“What are the top 10 recommended locations for online alcohol delivery — either from an existing store or a new delivery centre?”
+“What are the top 10 recommended locations for online alcohol delivery, either from an existing store or a new delivery centre?”
 
 # Approach
 
